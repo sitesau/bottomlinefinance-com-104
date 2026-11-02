@@ -1,0 +1,22 @@
+{
+  "wheel_id": 662,
+  "structure": "umbrella",
+  "slug": "bottomlinefinance-com-104",
+  "project": "private-lending-brisbane-quotes-explained-76af16135f7d36a944355",
+  "parent_t1_ref": "bottomlinefinance-com-151",
+  "node_role": "feeder",
+  "money_target": "bottomlinefinance.com.au",
+  "primary_kw": "private lending brisbane quotes explained",
+  "intended_url": "https://aumedia.neocities.org/private-lending-brisbane-quotes-explained-76af16135f7d36a944355/",
+  "tier": "T2",
+  "writeback_nonce": "97cb81c5a2806ed8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/private-lending-brisbane-da30cd888d791f27039399fab05babc9bd5af7/",
+      "anchor": "Private Lending Brisbane: for Asset Backed Deals",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
